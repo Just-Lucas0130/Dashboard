@@ -1,0 +1,17 @@
+table {
+    margin: auto;
+    font-size: 24px;
+    text-align: center;
+    width: 100%;
+  }
+  th {
+    background-color: black;
+    color: white;
+    border-bottom: 3px black;
+  }
+
+  table,
+    td {
+  border: 1px solid black;
+  text-align: center;
+}

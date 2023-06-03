@@ -1,0 +1,26 @@
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-color: black;
+
+
+}  
+
+body{
+    background-color: pink;
+
+
+}
+
+dash{
+    font-size: 50px;
+    text-align: center; 
+    text-decoration-color: red; 
+}
+
+label {
+    border: 1px solid black;
+    text-align: center;
+    background-color: aqua;
+}
